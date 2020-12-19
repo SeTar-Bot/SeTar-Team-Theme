@@ -8,7 +8,7 @@ Updates will be server-sided, that means you can just refresh your discord to ge
 
 ## 👤 Developer
 
-All the Credit of this project goes to [Hadi.Az](http://hadi.js.org)
+All the Credit of this project goes to [Hadi.Az](https://discord.bio/p/hadiaz)
 
 ### 👀 New Idea or any issue?
 
