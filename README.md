@@ -1,6 +1,6 @@
 # 🖥 SeTar-Team-Theme
 
-SetarTheme Created and Based in [BandagedBD](https://betterdiscord.net//)
+SetarTheme Created and Based in [BandagedBD](https://betterdiscord.net/home/)
 
 ## 📂 Theme Updates
 
