@@ -16,7 +16,7 @@ Feel free to tell us about problems on issues or even make changes and make a pu
 
 ### 🛠 Change Log
 
-╔══════════ 📅 2020/12/20 ════════════╗
+╔══════════📅2020/12/20📅════════════╗
 - Invite link is now transparent
 - Friend list search is now transparent 
 - Public button visibility has been fixed
