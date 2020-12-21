@@ -9,6 +9,7 @@ Updates will be server-sided, that means you can just refresh your discord to ge
 ## 👤 Developer
 
 All the Credit of this project goes to [Hadi.Az](https://discord.bio/p/hadiaz)
+For adding a custom header and user bg DM him on discord [-its^Hadi.Az^#1405](https://discord.com/channels/@me/490519932292038659)
 
 ### 👀 New Idea or any issue?
 
